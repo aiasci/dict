@@ -1,11 +1,12 @@
 import pandas as pd
 import numpy as np
-a = pd.read_csv(r'C:\Users\User\Desktop\TEPAV\TEPAV-DATABASE\il_bazinda_gsyh\il_bazinda_gsyh.csv', sep = '|' )
+a = pd.read_csv(r'C:\Users\User\Desktop\TEPAV\TEPAV-DATABASE\il_bazinda_kb_gsyh\il_bazinda_kb_gsyh.csv', sep = '|' )
 a = a.ffill()
 del[a['Unnamed: 0']]
 a.columns = ['veri', 'yıl']+list(a.loc[0,:][2:])
 a = a[a['veri']  == a['veri'].unique()[1]]
 del(a['veri'])
+a = a.drop_duplicates()
 a = a.T.reset_index()
 a.columns = ['İl']+list(a.loc[0,:])[1:]
 a = a.iloc[1:,:]
@@ -22,4 +23,4 @@ for column in b:
     for element in c:
         liste.append(float(element))
     a[column] = liste
-a.to_excel(r'C:\Users\User\Desktop\TEPAV\TEPAV-DATABASE\il_bazinda_gsyh\il_bazinda_gsyh.xlsx', index=False)
+a.to_excel(r'C:\Users\User\Desktop\TEPAV\TEPAV-DATABASE\il_bazinda_kb_gsyh\il_bazinda_kb_gsyh.xlsx', index=False)

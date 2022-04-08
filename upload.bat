@@ -1,4 +1,4 @@
-cd C:\Users\User\Desktop\TEPAV\TEPAV-DATABASE\il_bazinda_gsyh
+cd C:\Users\User\Desktop\TEPAV\TEPAV-DATABASE\il_bazinda_kb_gsyh
 git init
 git add .
 git commit -m "a"

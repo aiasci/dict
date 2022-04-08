@@ -30,17 +30,15 @@ WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/bod
 WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[1]/div[1]/div/div[4]'))).click()
 time.sleep(0.5)
 ## Choosing required dataset
-WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[1]/div[1]/div/div[3]/div[2]/div[1]/div/div[3]/div[2]/table/tbody/tr/td/table/tbody/tr/td[1]/div/div[3]/table/tbody[1]/tr[1]/td[2]/div'))).click()
-WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[1]/div[1]/div/div[3]/div[2]/div[1]/div/div[3]/div[2]/table/tbody/tr/td/table/tbody/tr/td[3]/div/div[2]/table/tbody/tr/td/table/tbody/tr[1]/td/div/div/table/tbody[1]/tr[3]/td[1]/div/span[2]'))).click()
+WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[1]/div[1]/div/div[3]/div[2]/div[1]/div/div[3]/div[2]/table/tbody/tr/td/table/tbody/tr/td[1]/div/div[3]/table/tbody[1]/tr[6]/td[2]/div'))).click()
 ## Clicking TAMAM
 WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[1]/div[1]/div/div[3]/div[2]/div[1]/div/div[3]/div[2]/table/tbody/tr/td/table/tbody/tr/td[3]/div/div[2]/table/tbody/tr/td/table/tbody/tr[3]/td/div/table/tbody/tr/td/table/tbody/tr/td[5]/div/button[1]'))).click()
 ## Choosing Sub-set
 WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[1]/div[1]/div/div[3]/div[2]/div[1]/div/div[4]/div[2]/div/div[1]/div[2]/div[3]/div[4]/table/tbody[1]/tr[1]/td/div'))).click()
 time.sleep(0.5)
 ## Choosing Sub-set
-WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[1]/div[1]/div/div[3]/div[2]/div[1]/div/div[4]/div[2]/div/div[2]/div[2]/div[3]/div[4]/table/tbody[1]/tr/td/div'))).click()
+WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[1]/div[1]/div/div[3]/div[2]/div[1]/div/div[4]/div[2]/div/div[2]/div[2]/div[3]/div[4]/table/tbody[1]/tr[2]/td/div'))).click()
 time.sleep(0.5)
-WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[1]/div[1]/div/div[3]/div[2]/div[1]/div/div[4]/div[2]/div/div[3]/div[2]/div[3]/div[4]/table/tbody[1]/tr[3]/td/div/span[2]'))).click()
 ## Adding GÖSTERGE
 WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[1]/div[1]/div/div[3]/div[2]/div[1]/div/div[6]/div[1]/div/div/div/table/tbody/tr/td/table/tbody/tr/td[1]/a/span'))).click()
 ## Clickking İLERİ
@@ -62,7 +60,7 @@ WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/bod
 time.sleep(2)
 ## Copying and deleting the file
 source =r'C:\Users\User\Downloads\pivot.csv'
-destination = r'C:\Users\User\Desktop\TEPAV\TEPAV-DATABASE\il_bazinda_gsyh\il_bazinda_gsyh.csv'
+destination = r'C:\Users\User\Desktop\TEPAV\TEPAV-DATABASE\il_bazinda_kb_gsyh\il_bazinda_kb_gsyh.csv'
 shutil.copyfile(source, destination)
 os.remove(source)
 driver.quit()

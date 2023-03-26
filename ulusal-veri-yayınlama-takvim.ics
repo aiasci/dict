@@ -1,0 +1,454 @@
+BEGIN:VEVENT
+UID:xu7v3CvqfnOYNDBJbsGd0
+SUMMARY:Türkiye Cumhuriyet Merkez Bankası
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T073000Z
+DESCRIPTION:Perakende Ödeme Sistemi (PÖS) İşlemleri
+URL:https://evds2.tcmb.gov.tr/index.php?/evds/serieMarket/collapse_22/5096/
+	DataGroup/turkish/bie_osgmpos/
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:zLdcXHWV4zESA9ZGGGTFg
+SUMMARY:Türkiye Cumhuriyet Merkez Bankası
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T073000Z
+DESCRIPTION:Elektronik Fon Transfer (EFT) Sistemi ve Elektronik Menkul Kıym
+	et Transfer (EMKT) Sistemi İşlemleri 
+URL:https://evds2.tcmb.gov.tr/index.php?/evds/serieMarket/collapse_22/5095/
+	DataGroup/turkish/bie_eftemkt2/
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:CD3VnAVOkxa1UwSRvWpU2
+SUMMARY:Hazine ve Maliye Bakanlığı
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T090000Z
+DESCRIPTION:Kamu Net Borç Stoku İstatistikleri
+URL:https://www.hmb.gov.tr/kamu-finansmani-istatistikleri
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:zF87UG-D2QVFNQFloSjN_
+SUMMARY:Hazine ve Maliye Bakanlığı
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T090000Z
+DESCRIPTION:Türkiye Dış Borç İstatistikleri (Türkiye Brüt Dış Borç Stoku Tü
+	rkiye Net Dış Borç Stoku Türkiye Dış Borç Ödeme Projeksiyonları)
+URL:https://www.hmb.gov.tr/kamu-finansmani-istatistikleri
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:QvGta0QhuNexw1lRXGXM1
+SUMMARY:Hazine ve Maliye Bakanlığı
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T090000Z
+DESCRIPTION:Avrupa Birliği Tanımlı Genel Yönetim Borç Stoku İstatistikleri
+URL:https://www.hmb.gov.tr/kamu-finansmani-istatistikleri
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:-ANu4N-Ez63u4Jxq6aGXH
+SUMMARY:Hazine ve Maliye Bakanlığı
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T090000Z
+DESCRIPTION:Hazine Garantilerine İlişkin İstatistikler (Hazine Garantisi İl
+	e Sağlanan Krediler Hazine Garantili Dış Borç Stoku Hazine Garantili Kredi
+	lerin Geri Ödeme Projeksiyonları)
+URL:https://www.hmb.gov.tr/kamu-finansmani-istatistikleri
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:_eiOlAU8JFG3pX76uRhxk
+SUMMARY:Hazine ve Maliye Bakanlığı
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T090000Z
+DESCRIPTION:Kamu Kuruluşlarının Hazine Garantisiz Dış Borç İstatistikleri (
+	Kamu Kuruluşlarınca Sağlanan Hazine Garantisiz Dış Kredi Stoku)
+URL:https://www.hmb.gov.tr/kamu-finansmani-istatistikleri
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:rdqiZSkYRiTqHZfQzNok7
+SUMMARY:Bankacılık Düzenleme ve Denetleme Kurumu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T110000Z
+DESCRIPTION:Bankacılık Sektörü Toplulaştırılmış ve Grup Bazında Bilanço Bil
+	gileri
+URL:https://www.bddk.org.tr/BultenAylik
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:roxfPWF8fcR91yWEAM8q2
+SUMMARY:Bankacılık Düzenleme ve Denetleme Kurumu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T110000Z
+DESCRIPTION:Bankacılık Sektörü Toplulaştırılmış ve Grup Bazında Kar-Zarar T
+	ablosu Bilgileri
+URL:https://www.bddk.org.tr/BultenAylik
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Zjt5H6eH8Pg548OYhWqvf
+SUMMARY:Bankacılık Düzenleme ve Denetleme Kurumu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T110000Z
+DESCRIPTION:Bankacılık Sektörü Toplulaştırılmış ve Grup Bazında KOBİ Kredil
+	eri
+URL:https://www.bddk.org.tr/BultenAylik
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:KTILx9veppOgzyC4JCoN9
+SUMMARY:Bankacılık Düzenleme ve Denetleme Kurumu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T110000Z
+DESCRIPTION:Bankacılık Sektörü Toplulaştırılmış ve Grup Bazında Kredi Dağıl
+	ımı Bilgileri
+URL:https://www.bddk.org.tr/BultenAylik
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:7mvbSs61RqxfsAMTC_723
+SUMMARY:Bankacılık Düzenleme ve Denetleme Kurumu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T110000Z
+DESCRIPTION:Bankacılık Sektörü Toplulaştırılmış ve Grup Bazında Likidite Du
+	rumu Bilgileri
+URL:https://www.bddk.org.tr/BultenAylik
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:mijl7m4-cwjZxOJGnEQYv
+SUMMARY:Bankacılık Düzenleme ve Denetleme Kurumu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T110000Z
+DESCRIPTION:Bankacılık Sektörü Toplulaştırılmış ve Grup Bazında Menkul Değe
+	rler Cüzdanı Bilgileri
+URL:https://www.bddk.org.tr/BultenAylik
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:XZn6nILuYpkrqQzg_ViRV
+SUMMARY:Bankacılık Düzenleme ve Denetleme Kurumu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T110000Z
+DESCRIPTION:Bankacılık Sektörü Toplulaştırılmış ve Grup Bazında Mevduat Bil
+	gileri
+URL:https://www.bddk.org.tr/BultenAylik
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:2OwXMIfE_UxkWqyMiMiMf
+SUMMARY:Bankacılık Düzenleme ve Denetleme Kurumu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T110000Z
+DESCRIPTION:Bankacılık Sektörü Toplulaştırılmış ve Grup Bazında Sektörel Kr
+	edi Dağılımı Bilgileri
+URL:https://www.bddk.org.tr/BultenAylik
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:aFj5QrcrboQliO-BYMgTz
+SUMMARY:Bankacılık Düzenleme ve Denetleme Kurumu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T110000Z
+DESCRIPTION:Bankacılık Sektörü Toplulaştırılmış ve Grup Bazında Sermaye Yet
+	erliliği Bilgileri
+URL:https://www.bddk.org.tr/BultenAylik
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:O6T6r_aXSQ_6usizZZKMj
+SUMMARY:Bankacılık Düzenleme ve Denetleme Kurumu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T110000Z
+DESCRIPTION:Bankacılık Sektörü Toplulaştırılmış ve Grup Bazında Yabancı Par
+	a Pozisyonu Bilgileri
+URL:https://www.bddk.org.tr/BultenAylik
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:i3-Jzwys9VdCJCT7FQkzL
+SUMMARY:Bankacılık Düzenleme ve Denetleme Kurumu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T110000Z
+DESCRIPTION:Kredi Kartı Harcamalarına İlişkin İstatistikler
+URL:https://www.bddk.org.tr/BultenAylik
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:uBsZSfpnyubAL30VimkvQ
+SUMMARY:Bankacılık Düzenleme ve Denetleme Kurumu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T110000Z
+DESCRIPTION:Tüketici Kredilerine İlişkin İstatistikler
+URL:https://www.bddk.org.tr/BultenAylik
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:lOfFuO7OwVu-KA2Z80RGF
+SUMMARY:Sanayi ve Teknoloji Bakanlığı
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T110000Z
+DESCRIPTION:Milyon Kişi Başına Düşen Bilimsel Yayın Sayısı
+URL:http://tubitak.gov.tr/tr/kurumsal/politikalar/icerik-milyon-kisi-basina
+	-dusen-bilimsel-yayin-sayisi
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Pl0P4JGllXhPJFyD9X9dI
+SUMMARY:Türkiye Cumhuriyet Merkez Bankası
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T113000Z
+DESCRIPTION:Aylık Para ve Banka İstatistikleri 
+URL:http://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Istatistikl
+	er/Parasal+ve+Finansal+Istatistikler/Aylik+Para+ve+Banka+Istatistikleri/
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:hB_N2otxhqp8s1JCa45gC
+SUMMARY:Türkiye Cumhuriyet Merkez Bankası
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T113000Z
+DESCRIPTION:TCMB Analitik Bilanço
+URL:http://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Istatistikl
+	er/TCMB+Analitik+Bilanco
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:yY0aQdwNYvVA_d9eo-r6_
+SUMMARY:Tarım ve Orman Bakanlığı
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T120000Z
+DESCRIPTION:Yenilenebilir Enerji Kaynakları - Yakıt Biyoetanolü İstatistikl
+	eri
+URL:https://www.tarimorman.gov.tr/TADB/Link/38/Resmi-Istatistikler
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:V2EMFwylFYm_5DACzP0cE
+SUMMARY:Türkiye Cumhuriyet Merkez Bankası
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T123000Z
+DESCRIPTION:Gösterge Niteliğindeki Merkez Bankası Kurları
+URL:https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Istatistik
+	ler/Doviz+Kurlari/Gosterge+Niteligindeki+Merkez+Bankasi+Kurlarii/
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:buPKnWxNpSEXkoWAn74BM
+SUMMARY:Enerji Piyasası Düzenleme Kurumu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T140000Z
+DESCRIPTION:Doğal Gaz Piyasası Aylık Sektör Raporu
+URL:https://www.epdk.gov.tr/Detay/Icerik/3-0-95/dogal-gazaylik-sektor-rapor
+	u
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:XJyyvTQwhBG8aM0w2vOKa
+SUMMARY:Enerji Piyasası Düzenleme Kurumu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T140000Z
+DESCRIPTION:LPG Piyasası Aylık Sektör Raporu
+URL:https://www.epdk.gov.tr/Detay/Icerik/3-0-105/lpgaylik-sektor-raporlari
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:vp77FHRRxW7y745UXyDY5
+SUMMARY:Enerji Piyasası Düzenleme Kurumu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T140000Z
+DESCRIPTION:Petrol Piyasası Aylık Sektör Raporu
+URL:https://www.epdk.gov.tr/Detay/Icerik/3-0-104/petrolaylik-sektor-raporu
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:zu2o1gzJRGAx6a80zWln-
+SUMMARY:Hazine ve Maliye Bakanlığı
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T140000Z
+DESCRIPTION:Görevlendirme Bilgileri
+URL:https://www.hmb.gov.tr/kategori/kamu-sermayeli-kurulus-ve-isletmeler/sa
+	yfa/1
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:M1Za6tiHDKd5AzAgkX0pX
+SUMMARY:Hazine ve Maliye Bakanlığı
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T140000Z
+DESCRIPTION:KİT'lerin ve Özelleştirme Kapsamındaki Kuruluşların Borç Stoku
+URL:https://www.hmb.gov.tr/kategori/kamu-sermayeli-kurulus-ve-isletmeler/sa
+	yfa/1
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fwnXeUkUhNkTyK4Nzc-px
+SUMMARY:Hazine ve Maliye Bakanlığı
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T140000Z
+DESCRIPTION:KİT'lerin ve Özelleştirme Kapsamındaki Kuruluşların İstihdam Sa
+	yıları
+URL:https://www.hmb.gov.tr/kategori/kamu-sermayeli-kurulus-ve-isletmeler/sa
+	yfa/1
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Q-Iah7692K8kkrDdoeDyf
+SUMMARY:Enerji Piyasası Düzenleme Kurumu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T140000Z
+DESCRIPTION:Elektrik Piyasası Aylık Sektör Raporu
+URL:https://www.epdk.gov.tr/Detay/Icerik/3-0-23/elektrikaylik-sektor-raporl
+	ar
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:4OevH2QM4rJpDiE3-fL4a
+SUMMARY:Çalışma ve Sosyal Güvenlik Bakanlığı
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T143000Z
+DESCRIPTION:SGK Aylık İstatistik Bülteni 
+URL:https://www.sgk.gov.tr/Istatistik/Aylik/42919466-593f-4600-937d-1f95c9e
+	252e6/
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:y4yR-ayvnszl9226IeJWB
+SUMMARY:Türkiye Sigorta Birliği
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T143000Z
+DESCRIPTION:Prim Üretimi İstatistikleri                              
+URL:https://www.tsb.org.tr/tr/istatistikler
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:zRRDAija3O5fBnjSoGo81
+SUMMARY:Enerji ve Tabii Kaynaklar Bakanlığı
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T150000Z
+DESCRIPTION:Boru  Hatları ile Doğal Gaz Taşıma İstatistikleri
+URL:https://www.botas.gov.tr/Sayfa/ticaret/14
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:B34tFN10Ej5LSppLASnwC
+SUMMARY:Enerji ve Tabii Kaynaklar Bakanlığı
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T150000Z
+DESCRIPTION:Boru  Hatları ile Petrol Taşıma  İstatistikleri
+URL:https://www.botas.gov.tr/Sayfa/ham-petrol/13
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:G-PfIEtJMY5pTPFjf2q8e
+SUMMARY:Türkiye Cumhuriyet Merkez Bankası
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T150000Z
+DESCRIPTION:Merkez Bankası Bünyesindeki Bankalararası Para Piyasası İstatis
+	tikleri
+URL:https://evds2.tcmb.gov.tr/index.php?/evds/DataGroupLink/2/bie_pyintbnk/
+	tr
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Ex7jKXtsLm9GlQwY6dnNr
+SUMMARY:Sermaye Piyasası Kurulu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T155900Z
+DESCRIPTION:Menkul Kıymet Yatırım Fonlarına/Emeklilik Yatırım Fonlarına/Yat
+	ırım Ortaklıklarına İlişkin Günlük İstatistikler
+URL:https://spk.gov.tr/istatistikler/istatistiksel-veriler/gunluk-istatisti
+	kler
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:qkckwxTC_ZsTZ-B9iIhoV
+SUMMARY:Sermaye Piyasası Kurulu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T160000Z
+DESCRIPTION:Emeklilik ve Menkul Kıymet Yat. Fonlarının Katılma Paylarına İl
+	işkin İzahname \; Gayrimenkul ve Girişim Sermayesi Yat. Fonlarının Katılma
+	 Paylarına İlişkin İhraç Belgesi \; Tüm Yat. Ortaklıkları Pay/Borçlanma Ar
+	acına İlişkin İzahname/İhraç Belgesi Onayı
+URL:https://spk.gov.tr/spk-bultenleri/2023-yili-spk-bultenleri
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:0eLEX3TJ9xrYxD6NURFnR
+SUMMARY:Sermaye Piyasası Kurulu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T160000Z
+DESCRIPTION:Faaliyetleri Devam Etmekte Olan Aracı Kuruluşlar / Faaliyetleri
+	 Geçici Olarak Durdurulan Aracı Kuruluşlar / Aracı Kuruluşların Mevcut Yet
+	ki Belgelerine İlişkin Bilgiler / Aracı Kuruluşların Merkez Dışı Örgütleri
+URL:https://www.tspb.org.tr/tr/kamuoyu-aydinlatma-formu/
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:wLC3lvK9foERr03sBlogy
+SUMMARY:Sermaye Piyasası Kurulu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T160000Z
+DESCRIPTION:Faaliyetleri Devam Etmekte Olan Aracı Kuruluşlar / Faaliyetleri
+	 Geçici Olarak Durdurulan Aracı Kuruluşlar / Aracı Kuruluşların Mevcut Yet
+	ki Belgelerine İlişkin Bilgiler / Aracı Kuruluşların Merkez Dışı Örgütleri
+URL:https://www.spk.gov.tr/istatistikler/aylik-istatistik-bultenleri
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:g-uwZQrCCN95QwX7EIOF8
+SUMMARY:Sermaye Piyasası Kurulu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T160000Z
+DESCRIPTION:Halka Açık Şirket İstatistikleri (Birinci el piyasa ve menkul k
+	ıymet ihraçları\; menkul kıymet stokları ikinci el piyasalar)
+URL:https://www.spk.gov.tr/istatistikler/aylik-istatistik-bultenleri
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:gLAxhEVjHGaCZBx4i9Tcl
+SUMMARY:Sermaye Piyasası Kurulu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T160000Z
+DESCRIPTION:Menkul Kıymet Yatırım Fonlarına/Emeklilik Yatırım Fonlarına/Gay
+	rimenkul Yatırım Fonlarına/Girişim Sermayesi Yatırım Fonlarına/Menkul Kıym
+	et Gayrimenkul Girişim Sermayesi Yatırım Ortaklıklarına ve Portföy Yönetim
+	 Şirketlerine İlişkin Aylık İstatistikler
+URL:https://www.spk.gov.tr/istatistikler/aylik-istatistik-bultenleri
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:EPGAysue1H9Xn7P05oLAx
+SUMMARY:Sermaye Piyasası Kurulu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T160000Z
+DESCRIPTION:Halka Açık Şirket İstatistikleri (İzahname/ihraç belgesi onayı 
+	verilen ihraç taleplerine yönelik adet ve tutara ilişkin haftalık istatist
+	ikler)
+URL:https://spk.gov.tr/spk-bultenleri/2023-yili-spk-bultenleri
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:uuiOTVRV7yOdHk2GKQFCb
+SUMMARY:Sermaye Piyasası Kurulu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T160000Z
+DESCRIPTION:İzahname/ihraç Belgesi Onayı Verilen Borçlanma Araçları Kira Se
+	rtifikaları ve Varantlar
+URL:https://www.spk.gov.tr/istatistikler/aylik-istatistik-bultenleri
+DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Yk2P_AoS83OGGco7tVEPq
+SUMMARY:Sermaye Piyasası Kurulu
+DTSTAMP:20230326T115800Z
+DTSTART:20231229T160000Z
+DESCRIPTION:İzahname/ihraç Belgesi Onayı Verilen Borçlanma Araçları Kira Se
+	rtifikaları ve Varantlar
+URL:https://spk.gov.tr/spk-bultenleri/2023-yili-spk-bultenleri
+DURATION:PT1H30M
+END:VEVENT
+END:VCALENDAR
